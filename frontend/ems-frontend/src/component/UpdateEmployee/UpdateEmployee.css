@@ -1,0 +1,12 @@
+#update-employee-form {
+  max-width: 500px;
+  margin-bottom: 20px;
+}
+
+#update-employee-submit {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
