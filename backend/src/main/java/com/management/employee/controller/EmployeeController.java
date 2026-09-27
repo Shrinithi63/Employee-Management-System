@@ -19,7 +19,6 @@ public class EmployeeController {
 
     @GetMapping("")
     public List<Employee> getAllEmployees() {
-        // This method should return a list of employees, but for now, we return a simple message.
         return employeeService.getAllEmployees();
     }
 
