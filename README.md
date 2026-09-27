@@ -15,7 +15,13 @@ The application is bundled so that the pre-built frontend static assets live dir
 
 ---
 
-## Getting Started
+## Local Setup
+
+Clone the Repository
+
+Clone the project repository to your local machine using Git:
+
+git clone https://github.com/Shrinithi63/Employee-Management-System.git
 
 ### 1) Run the Application Locally via Docker Compose
 Since the built frontend assets are already included in the backend repository, you can spin up the entire application (database + backend serving the UI) with a single command:
