@@ -56,7 +56,7 @@ If you want to run the React + Vite frontend in development mode with hot-reload
 
 ```bash
 # Navigate to the frontend directory
-cd frontend
+cd frontend/ems-frontend
 
 # Install dependencies (if not already done)
 npm install
