@@ -101,7 +101,7 @@ The API runs on http://localhost:8080.
 **Prerequisites:** Node.js and npm.
 
 ```bash
-cd frontend/ems-frontend
+cd frontend
 npm install
 npm run dev
 ```
