@@ -1,6 +1,5 @@
-import { useState } from "react";
 import "./App.css";
-import ListAllEmployee from "./Component/ListAllEmployee";
+import ListAllEmployee from "./component/ListAllEmployee";
 import HeaderComponent from "./component/Header/HeaderComponent";
 import FooterComponent from "./component/Footer/FooterComponent";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
